@@ -1,17 +1,25 @@
-# Introduction
+## Overview
 
-## Book overview
+[![Build Status](https://www.gitbook.io/button/status/book/guumaster/guide-to-functional-reactive-programming)](https://www.gitbook.io/book/guumaster/guide-to-functional-reactive-programming/activity)
 
-###
+<!-- toc -->
 
-## Functional part
+This would be the TODO list during the research. If you are eager to see code jump straight to  [Chapter 1 - Functional Programming](functional_programming/README.md)
 
-### Why functional programming
+## The functional stuffs
+
+- What is it
+- The imperative approach
+- Building blocks
 
 
+## The reactive stuffs
 
-## Reactive part
+- What is it
+- Iterable and Observable pattern similarities
+- Asynchronous events as observables
 
-### Why reactive programming
+## Real world use cases
 
-### Choos
+- Using it with jQuery
+- Using it with React

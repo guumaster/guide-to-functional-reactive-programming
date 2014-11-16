@@ -1,0 +1,44 @@
+{
+    "output": "../guumaster.github.io/frp/",
+    "plugins": [
+        "jsbin",
+        "richquotes",
+        "toc"
+    ],
+    "pluginsConfig": {
+        "fontSettings": {
+            "theme": "white",
+            "family": "sans",
+            "size": 1
+        },
+        "disqus": {
+            "shortName": "guidetofunctionalreactiveprogramming"
+        }
+    },
+    "variables": {},
+    "links": {
+        "home": "http://guumaster.gitbooks.io",
+        "issues": "http://github.com/guumaster/guide-to-functional-reactive-programming/issues",
+        "contribute": "http://github.com/guumaster/guide-to-functional-reactive-programming",
+        "sharing": {
+            "google": null,
+            "facebook": null,
+            "twitter": null,
+            "weibo": false,
+            "all": false
+        }
+    },
+    "pdf": {
+        "pageNumbers": false,
+        "fontSize": 12,
+        "paperSize": "a4",
+        "margin": {
+            "right": 62,
+            "left": 62,
+            "top": 36,
+            "bottom": 36
+        },
+        "headerTemplate": null,
+        "footerTemplate": null
+    }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "guide-to-functional-reactive-programming",
+  "version": "0.0.2",
+  "description": "a collection of articles to improve my functional reactive programming skills",
+  "main": "README.md",
+  "dependencies": {
+    "gitbook-plugin-disqus": "0.0.1",
+    "gitbook-plugin-jsbin": "^0.0.12",
+    "gitbook-plugin-richquotes": "0.0.5",
+    "gitbook-plugin-toc": "0.0.1",
+    "gitbook-plugin-toconsole": "0.0.4",
+    "gitbook-plugin-toggle-chapters": "0.0.1",
+    "install": "^0.1.7",
+    "npm": "^2.1.8"
+  },
+  "engines": {
+    "gitbook": ">=1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guumaster/guide-to-functional-reactive-programming.git"
+  },
+  "author": "guumaster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guumaster/guide-to-functional-reactive-programming/issues"
+  },
+  "homepage": "https://github.com/guumaster/guide-to-functional-reactive-programming"
+}
