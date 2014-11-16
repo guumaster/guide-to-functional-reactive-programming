@@ -1,5 +1,4 @@
 {
-    "output": "../guumaster.github.io/frp/",
     "plugins": [
         "jsbin",
         "richquotes",
