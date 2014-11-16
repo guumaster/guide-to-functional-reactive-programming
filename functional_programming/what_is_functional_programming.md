@@ -2,6 +2,7 @@
 
 Functional programming produces abstraction through clever ways of combining functions. A programmer armed with a repertoire of fundamental functions and, more importantly is much more effective than one who starts from scratch.
 
+Imperative programs tend to emphasize the series of steps taken by a program in carrying out an action, while functional programs tend to emphasize the composition and arrangement of functions.
 
 ### Differences is from OOP
 

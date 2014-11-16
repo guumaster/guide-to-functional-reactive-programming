@@ -11,6 +11,7 @@
 * [Functional Reactive Programming](reactive_programming/README.md)
    * [What is reactive programming](reactive_programming/what_is_reactive_programming.md)
    * [Iterable and Observable pattern similarities](reactive_programming/iterable_and_observable_pattern_similarities.md)
+   * [Everything viewed as a stream](reactive_programming\everything_viewed_as_a_stream)
 * [Real world use cases](real_world_use_cases/README.md)
 * [References](references/README.md)
 

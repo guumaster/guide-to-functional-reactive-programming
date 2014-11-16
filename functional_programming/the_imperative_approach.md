@@ -16,7 +16,7 @@ console.log( new_data );
 // -> [ 2, 4, 6 ]
 ```
 
-Well, stop it. Seriously, ***stop doing this right now***. This is too verbose and ugly.
+> **Danger** ***Stop it***!. Seriously, ***stop doing this right now***. This is too verbose and ugly.
 
 
 ### A less ugly manner

@@ -17,7 +17,7 @@ This would be the TODO list during the research. If you are eager to see code ju
 
 - What is it
 - Iterable and Observable pattern similarities
-- Asynchronous events as observables
+- Everything viewed as a stream
 
 ## Real world use cases
 
